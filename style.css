@@ -6,6 +6,7 @@ section{
 body{
   font-family: 'Roboto Condensed';
   font-size: 22px;
+  width: auto;
 }
 
 .hero{
